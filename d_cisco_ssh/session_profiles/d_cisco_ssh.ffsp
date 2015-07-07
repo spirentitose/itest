@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SessionTemplate version="5.1.0.77511">
+    <baseApplication>com.fnfr.svt.applications.ssh</baseApplication>
+    <sessionProperties type="com.fnfr.svt.applications.ssh.documents.SSHProperties">
+        <ipAddress inherit="false">1.1.1.1</ipAddress>
+        <user inherit="false">user</user>
+        <password inherit="false">6tgA3NkRPCMJor6ZZIWzzg==</password>
+    </sessionProperties>
+    <sessionClassTestCase inherit="false">d_ssh_quickcall_library.fftc</sessionClassTestCase>
+    <nickName>ssh</nickName>
+    <Overview>ssh session for Cisco</Overview>
+    <isReferenceProfile>true</isReferenceProfile>
+</SessionTemplate>

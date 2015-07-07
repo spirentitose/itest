@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<testCase version="5.1.0.77511">
+    <general>
+        <sessionClass includeTestCase="true" sessionType="d_cisco_ssh.ffsp"/>
+    </general>
+    <procedures>
+        <item name="main"/>
+    </procedures>
+</testCase>
