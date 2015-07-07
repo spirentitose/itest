@@ -9,5 +9,6 @@
     <sessionClassTestCase inherit="false">d_ssh_quickcall_library.fftc</sessionClassTestCase>
     <nickName>ssh</nickName>
     <Overview>ssh session for Cisco</Overview>
+    <Description>Use this session profile to manage Cisco SSH devices.</Description>
     <isReferenceProfile>true</isReferenceProfile>
 </SessionTemplate>
